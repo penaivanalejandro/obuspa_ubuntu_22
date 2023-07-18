@@ -6,6 +6,8 @@ Open Broadband-User Services Platform-Agent (OB-USP-Agent) is an open source pro
 
 For build instructions, please refer to [QUICK_START_GUIDE](https://github.com/BroadbandForum/obuspa/blob/master/QUICK_START_GUIDE.md).
 
+For install on Ubuntu 22.04 please refer to [INSTALL_UBUNTU](https://github.com/penaivanalejandro/obuspa_ubuntu_22/blob/master/INSTALL_UBUNTU_22_04.md).
+
 ## Contributing
 
 Thank you for your interest in contributing! Please refer to [CONTRIBUTING.md](https://github.com/BroadbandForum/obuspa/blob/master/CONTRIBUTING.md) for guidance.
